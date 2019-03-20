@@ -1,0 +1,14 @@
+c:\users\matthew\source\repos\LogisticsApplication\LogisticsApplication\obj\Debug\LogisticsApplication.csprojAssemblyReference.cache
+c:\users\matthew\source\repos\LogisticsApplication\LogisticsApplication\obj\Debug\LogisticsApplication.Form1.resources
+c:\users\matthew\source\repos\LogisticsApplication\LogisticsApplication\obj\Debug\LogisticsApplication.Properties.Resources.resources
+c:\users\matthew\source\repos\LogisticsApplication\LogisticsApplication\obj\Debug\LogisticsApplication.csproj.GenerateResource.cache
+c:\users\matthew\source\repos\LogisticsApplication\LogisticsApplication\obj\Debug\LogisticsApplication.csproj.CoreCompileInputs.cache
+c:\users\matthew\source\repos\LogisticsApplication\LogisticsApplication\bin\Debug\LogisticsApplication.exe.config
+c:\users\matthew\source\repos\LogisticsApplication\LogisticsApplication\bin\Debug\LogisticsApplication.exe
+c:\users\matthew\source\repos\LogisticsApplication\LogisticsApplication\bin\Debug\LogisticsApplication.pdb
+c:\users\matthew\source\repos\LogisticsApplication\LogisticsApplication\obj\Debug\LogisticsApplication.exe
+c:\users\matthew\source\repos\LogisticsApplication\LogisticsApplication\obj\Debug\LogisticsApplication.pdb
+c:\users\matthew\source\repos\LogisticsApplication\LogisticsApplication\bin\Debug\Newtonsoft.Json.dll
+c:\users\matthew\source\repos\LogisticsApplication\LogisticsApplication\bin\Debug\Newtonsoft.Json.pdb
+c:\users\matthew\source\repos\LogisticsApplication\LogisticsApplication\bin\Debug\Newtonsoft.Json.xml
+c:\users\matthew\source\repos\LogisticsApplication\LogisticsApplication\obj\Debug\LogisticsApplication.csproj.CopyComplete
