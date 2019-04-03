@@ -12,3 +12,17 @@ c:\users\matthew\source\repos\LogisticsApplication\LogisticsApplication\bin\Debu
 c:\users\matthew\source\repos\LogisticsApplication\LogisticsApplication\bin\Debug\Newtonsoft.Json.pdb
 c:\users\matthew\source\repos\LogisticsApplication\LogisticsApplication\bin\Debug\Newtonsoft.Json.xml
 c:\users\matthew\source\repos\LogisticsApplication\LogisticsApplication\obj\Debug\LogisticsApplication.csproj.CopyComplete
+C:\Users\Matthew\Desktop\AI Logistics Github\Repo\LogisticsApplication\bin\Debug\LogisticsApplication.exe.config
+C:\Users\Matthew\Desktop\AI Logistics Github\Repo\LogisticsApplication\bin\Debug\LogisticsApplication.exe
+C:\Users\Matthew\Desktop\AI Logistics Github\Repo\LogisticsApplication\bin\Debug\LogisticsApplication.pdb
+C:\Users\Matthew\Desktop\AI Logistics Github\Repo\LogisticsApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Matthew\Desktop\AI Logistics Github\Repo\LogisticsApplication\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Matthew\Desktop\AI Logistics Github\Repo\LogisticsApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Matthew\Desktop\AI Logistics Github\Repo\LogisticsApplication\obj\Debug\LogisticsApplication.csprojAssemblyReference.cache
+C:\Users\Matthew\Desktop\AI Logistics Github\Repo\LogisticsApplication\obj\Debug\LogisticsApplication.Form1.resources
+C:\Users\Matthew\Desktop\AI Logistics Github\Repo\LogisticsApplication\obj\Debug\LogisticsApplication.Properties.Resources.resources
+C:\Users\Matthew\Desktop\AI Logistics Github\Repo\LogisticsApplication\obj\Debug\LogisticsApplication.csproj.GenerateResource.cache
+C:\Users\Matthew\Desktop\AI Logistics Github\Repo\LogisticsApplication\obj\Debug\LogisticsApplication.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\Desktop\AI Logistics Github\Repo\LogisticsApplication\obj\Debug\LogisticsApplication.csproj.CopyComplete
+C:\Users\Matthew\Desktop\AI Logistics Github\Repo\LogisticsApplication\obj\Debug\LogisticsApplication.exe
+C:\Users\Matthew\Desktop\AI Logistics Github\Repo\LogisticsApplication\obj\Debug\LogisticsApplication.pdb

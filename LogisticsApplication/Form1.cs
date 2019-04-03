@@ -38,11 +38,12 @@ namespace LogisticsApplication
         private void LogisticsRun(string startID, string endID) {
             // Create a uniformCostSearch object
             UniformCostSearch uniformCostSearch = new UniformCostSearch(startID);
+            UniformCostSearch uniformHeuristicCostSearch = new UniformCostSearch(startID);
             // Use the Runsearch function of the uniform cost search class to get the goal path
             Path GoalPath = uniformCostSearch.RunSearch(PointContainers, endID);
-
+            Path HueristicGoalPath = uniformHeuristicCostSearch.RunHeuristicSearch(PointContainers, endID);
             // For every marker instance in the goal path (except the first iteration)
-            for(int i=1; i < GoalPath.MarkerInstances.Count; i++)
+            for (int i=1; i < GoalPath.MarkerInstances.Count; i++)
             {
                 // Get the X,Y coordinates of the points for drawing them.
                 int x1 = Convert.ToInt32(GoalPath.MarkerInstances[i-1].MarkerID.Substring(0,3));
@@ -59,8 +60,10 @@ namespace LogisticsApplication
             }
 
             // This is for debugging, it shows the output of the goalpath in JSON formatting
-            string output = JsonConvert.SerializeObject(GoalPath);
+            string output = "Standard: " + JsonConvert.SerializeObject(GoalPath);
             Console.WriteLine(output);
+            string output2 = "Hueristic: " + JsonConvert.SerializeObject(HueristicGoalPath);
+            Console.WriteLine(output2);
             if (GoalPath.Cost != -1) {
                 // Convert cost to total miles
                 double cost = GoalPath.Cost;
