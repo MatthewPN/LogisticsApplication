@@ -71,6 +71,9 @@ namespace LogisticsApplication
                 cost = cost / 85 * 1000;
                 // 5280 feet in every mile
                 cost = cost / 5280;
+                this.label2.Text = "Miles: " + cost.ToString();
+                this.label1.Text = "Expansions: " + GoalPath.TotalExpansions.ToString();
+                this.label3.Text = "Heuristic Expansions: " + HueristicGoalPath.TotalExpansions.ToString();
                 Console.WriteLine("The shortest path has a distance of '" + cost.ToString() + "' miles");
             } else
             {
